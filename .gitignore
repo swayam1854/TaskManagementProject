@@ -1,0 +1,16 @@
+# Node (Frontend)
+node_modules/
+dist/
+
+# Java (Backend)
+target/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
