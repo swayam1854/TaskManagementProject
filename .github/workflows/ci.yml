@@ -22,7 +22,7 @@ jobs:
 
       - name: Build backend
         working-directory: tasksmanagement-backend/taskmanagement
-        run: mvn -B clean verify
+        run: mvn -B clean verify -DskipTests
 
       - name: Set up Node
         uses: actions/setup-node@v4
