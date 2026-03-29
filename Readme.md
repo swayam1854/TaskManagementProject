@@ -56,7 +56,7 @@ Important Note:
 
 When the application is run for the first time, the database is empty. Therefore, you must first register a user who will become the Admin. The first registered user is assigned the Admin role automatically.
 
-All users registered after that will have the User role.
+All users registered after that will have the User role.So after registering the first user as Admin go to the register page and register some users.
 
 If no tasks are created by the Admin, the dashboard will remain empty. Therefore, after creating the Admin and some users, log in as Admin and assign tasks to users to properly view the dashboard.
 
